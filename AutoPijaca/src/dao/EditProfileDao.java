@@ -13,7 +13,7 @@ public class EditProfileDao {
 
 	public boolean EditUserDetails(String firstName, String lastName, String phone,
 			String email, String country,String city, String street, UserDetails details) {
-		
+	}
 	public boolean updateUserDetails(UserDetails details1, Double balance) {
 			
 		   boolean updateUserDetails = false;
